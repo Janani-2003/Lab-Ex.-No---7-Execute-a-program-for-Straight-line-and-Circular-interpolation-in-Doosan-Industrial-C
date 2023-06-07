@@ -37,12 +37,11 @@ Linear Interpolation
 Circular Interpolation
 
 ### output
-![1](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/3dfb0f44-a367
-![2](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/689c929a-aa01-4e1e-b129-88b40cc
-![3](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/54c574fe-ef05-4628-a8f3-ee9256e2493d)
-e1e66)
-![4](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/e89ca655-0193-43a4-93ad-e30fd6b5e9e0)
-![5](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/12a07e32-4d87-473f-9e2b-9dbcb73b75b7)
+![1](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/571a2336-048b-4f6c-8579-3352bd208fc5)
+![2](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/bf5c6bd9-8820-4397-99e5-6e76c6dc843c)
+![3](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/95a717dc-fa78-4dd7-8231-e6be4f2db306)
+![4](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/1f19cbdd-a7f4-409e-aad9-07b5cce4943d)
+![5](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/8c39d6e6-25bf-4bbb-82c7-bfa9de52c742)
 
 ![6](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/6f3593f8-390e-41fd-87fc-d1831156addb)
 

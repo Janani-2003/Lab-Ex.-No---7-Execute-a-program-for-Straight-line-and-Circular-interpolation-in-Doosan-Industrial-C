@@ -34,14 +34,6 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
 Linear Interpolation
-
-
-
-
-
-
-
-
 Circular Interpolation
 
 ### output
@@ -50,10 +42,9 @@ Circular Interpolation
 3d2e9d76b750)
 ![4](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/e89ca655-0193-43a4-93ad-e30fd6b5e9e0)
 ![5](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/12a07e32-4d87-473f-9e2b-9dbcb73b75b7)
-### LINEAR INTERPOLATION
+
 ![6](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/6f3593f8-390e-41fd-87fc-d1831156addb)
 
-### CIRCULAR INTERPOLATION
 ![7](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/e0892148-0080-4bda-adc1-5e8d9bfe4b39)
 
 ### Results 

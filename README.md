@@ -37,9 +37,10 @@ Linear Interpolation
 Circular Interpolation
 
 ### output
-![1](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/3dfb0f44-a367![2](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/472b1201-c561-4574-ab11-11999a89ea9a)
--4867-8160-![3](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/6d1c495a-7ee0-4139-9e67-1e48e7f9e8a4)
-3d2e9d76b750)
+![1](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/3dfb0f44-a367
+![2](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/689c929a-aa01-4e1e-b129-88b40cc
+![3](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/54c574fe-ef05-4628-a8f3-ee9256e2493d)
+e1e66)
 ![4](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/e89ca655-0193-43a4-93ad-e30fd6b5e9e0)
 ![5](https://github.com/Janani-2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94288340/12a07e32-4d87-473f-9e2b-9dbcb73b75b7)
 
